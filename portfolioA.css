@@ -138,6 +138,7 @@ nav ul li{
     }
     nav ul li{
         transform: rotate(0deg);
+        margin-bottom: 25px;
     }
     .close{
         display: block;
